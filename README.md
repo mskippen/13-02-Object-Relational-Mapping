@@ -49,8 +49,9 @@ The walk-through video also shows POST, PUT, and DELETE routes for products and 
 - open the command line
 - type "npm install" (to install the dependencies)
 - add the .env file linked to your MySQL with your password details
-- open up MySQL command
+- open up MySQL command and type in your password
 - run the command under schema.sql on MySQL command line (Use the `schema.sql` file in the `db` folder to create your database with MySQL shell commands. Use environment variables to store sensitive data like your MySQL username, password, and database name)
+- go back to bash command line and run the following
 - type "npm run seed" (to seed the database)
 - type "npm start" (to run the app and Sync Sequelize to the Database on Server Start)
 
