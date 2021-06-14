@@ -83,7 +83,7 @@ PRODUCTS
 ## Links
 
 - A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met: <https://drive.google.com/drive/folders/1-yWDyYswmLmhSoFgT5psNPo5bvmV-XTG?usp=sharing>
-- The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project: <https://github.com/mskippen/13-02-Object-Relational-Mapping.git>
+- The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project: <https://github.com/mskippen/13-E-Commerce-Back-End.git>
 
 ## Contact
 
